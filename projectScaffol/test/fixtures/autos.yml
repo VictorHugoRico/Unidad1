@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  marca: MyString
+  modelo: MyString
+  anio: 
+  precio: 1.5
+  fechaAdq: 2017-01-26
+
+two:
+  marca: MyString
+  modelo: MyString
+  anio: 
+  precio: 1.5
+  fechaAdq: 2017-01-26
